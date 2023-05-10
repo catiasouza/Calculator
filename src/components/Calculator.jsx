@@ -81,7 +81,6 @@ export default function Calculator() {
             <button className='gray' onClick={inputNum} value={","}>,</button>
             <button className='gray' style={{visibility:"hidden"}}>,</button>
             <button className='orange'onClick={calculate}>=</button>
-            
         </div>
         </Container>
         </div>
